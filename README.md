@@ -1,4 +1,4 @@
-# Project_1_Python-Coding_Band-Name-Generator-Project
+# PythonCoding_Project_1__Band-Name-Generator-Project
 
 print("Welcome to the Band Name Generator.")
 
